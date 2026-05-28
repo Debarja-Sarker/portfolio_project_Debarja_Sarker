@@ -1,1 +1,8 @@
-# portfolio_project_Debarja_Sarker
+# Student
+
+### Education
+Bsc in Computer Science & Engineering
+Leading University, Sylhet
+
+### Project
+- Travel_App_Debarja
